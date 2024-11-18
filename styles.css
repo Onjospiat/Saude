@@ -1,0 +1,33 @@
+body{
+    background-color: #000;
+}
+
+div{
+    margin: 5px;
+}
+#content{
+    margin: 0px;
+    padding-left: 2%;
+    background-color:#fff;
+    width:80%; 
+    display:inline-block;
+}
+
+#header{
+    width:100%;
+    text-align:center;
+    background-color: #54b13c;
+}
+
+#side_bar{
+    text-align:center;
+    width:10%;
+    vertical-align:top;
+    display:inline-block;
+    background-color:#343688;
+    color:white;
+}
+
+a{
+    color:white;
+}
