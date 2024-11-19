@@ -1,8 +1,11 @@
 *{
     color:blue;
+    font-family: "Bebas Neue", 'Times New Roman', Times, serif;
 }
 h2{
     text-align:center;
+    font-family: "Lobster", sans-serif;
+    font-style:normal;
 }
 body{
     background-color: #000;
@@ -24,6 +27,8 @@ div{
     width:100%;
     text-align:center;
     background-color: green;
+    color: white;
+    font-family: "Lobster", sans-serif;
 }
 noticia{
     display:inline-block;
