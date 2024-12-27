@@ -1,3 +1,28 @@
+*{
+    color: #222;
+}
 body{
-    background-color: white;
+    background-color: lightsteelblue;
+}
+
+#header{
+    background-color: whitesmoke;
+    text-align: center;
+    width:100%;
+}
+
+h1, h2{
+    text-align: center;
+    color: black;
+}
+h2{
+    background-color: aliceblue;
+}
+a{
+    color:blue;
+}
+.news{
+    float:left;
+    width:40%;
+    margin:5%;
 }
